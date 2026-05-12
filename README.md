@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ahoto-kichhu-golpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ahoto Kichhu Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ahoto-kichhu-golpo/) |
+| **Get License** | [Get License For Ahoto Kichhu Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ahoto-kichhu-golpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b5cef29352a031008d05f0e505a16cc80d174e657837346f0ab5e5ab89e65bb2` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

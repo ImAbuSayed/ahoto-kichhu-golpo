@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ahoto Kichhu Golpo
+
+This log tracks the cryptographic history and versioning for the song **Ahoto Kichhu Golpo** (ahoto-kichhu-golpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T13:30:34.705006 | `v1` | `b5cef29352a031008d05f0e505a16cc80d174e657837346f0ab5e5ab89e65bb2` | `a939d91e2a963259fb58c636d492542178b05a5185ae847141f1bf630979255d` | `2026-05-12_ahoto-kichhu-golpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
