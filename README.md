@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ahoto-kichhu-golpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ahoto Kichhu Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ahoto-kichhu-golpo/) |
+| **Get License** | [Commercial Licensing for Ahoto Kichhu Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ahoto-kichhu-golpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> তোমার চোখের গভীরে হারিয়েছি আমি পথ
+> অচেনা এক ঘোরে যেন খুঁজে পাই নতুন রথ
+> মাতাল করা এই রাতে তোমার ওই উষ্ণ মায়া
+> আমার মনের আকাশে শুধু তোমার ছায়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
